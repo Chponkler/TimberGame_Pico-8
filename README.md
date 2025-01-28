@@ -2,9 +2,9 @@
 
 This is a simple Timberman-style game developed on PICO-8. The objective of the game is to chop down the tree while avoiding branches.
 
-@@@ вы можете скачать html версию и запустить игру у себя в браузере @@@
+@@@ вы можете скачать html версию и timber.js и запустить игру у себя в браузере @@@
 
-@@@ you can download the html version and run the game in your browser @@@
+@@@ you can download the html and timber.js version and run the game in your browser @@@
 
 ## Game Features
 
